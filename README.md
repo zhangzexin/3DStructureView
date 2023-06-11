@@ -1,5 +1,5 @@
 # NodeBallView
-本项目是基于[3dTagCloudAndroid](http://7fvfii.com1.z0.glb.clouddn.com/sample_qrcode.png)
+本项目是基于[3dTagCloudAndroid](https://github.com/misakuo/3dTagCloudAndroid)
 由于原先项目性能不佳，所以才有这个项目产生
 并添加了各节点关联性
 

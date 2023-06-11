@@ -4,6 +4,11 @@
 并添加了各节点关联性
 
 ### UI效果
+![Image](https://github.com/zhangzexin/3DStructureView/blob/master/doc/ezgif-1-a72e08d553.gif)
+![Image](https://github.com/zhangzexin/3DStructureView/blob/master/doc/ezgif-5-ce90f1f8f0.gif)
+![Image](https://github.com/zhangzexin/3DStructureView/blob/master/doc/2.gif)
+![Image](https://github.com/zhangzexin/3DStructureView/blob/master/doc/ezgif-3-0e9755b67e.gif)
+![Image](https://github.com/zhangzexin/3DStructureView/blob/master/doc/ezgif-4-8e84c67357.gif)
 
 
 ### 使用
